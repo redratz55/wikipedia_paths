@@ -1,6 +1,4 @@
-streamlitstreamlit
+streamlit
 requests
 beautifulsoup4
 sentence-transformers
-torch
-scikit-learn
